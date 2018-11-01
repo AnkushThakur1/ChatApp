@@ -1,0 +1,4 @@
+com\javamaster\controller\ChatController.class
+com\javamaster\WebSocketConfiguration.class
+com\javamaster\Application.class
+com\javamaster\domain\Message.class
